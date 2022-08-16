@@ -27,5 +27,5 @@ My name is Rafael Eckstein (aka Casperento) and I'm a senior Computer Science st
 
 #### Profile Stats:
 
-![](https://raw.githubusercontent.com/Casperento/casperento-profile-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Casperento/casperento-profile-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Casperento/casperento-profile-stats/master/generated/languages.svg#gh-light-mode-only)
