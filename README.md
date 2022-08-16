@@ -27,8 +27,5 @@ My name is Rafael Eckstein (aka Casperento) and I'm a senior Computer Science st
 
 #### Profile Stats:
 
-<div>
-  <a href="https://github.com/Casperento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Casperento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Casperento&layout=compact&langs_count=7&theme=dark"/>
-</div>
+![](https://raw.githubusercontent.com/Casperento/casperento-profile-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Casperento/casperento-profile-stats/master/generated/overview.svg#gh-light-mode-only)
