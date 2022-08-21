@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-My name is Rafael Eckstein (aka Casperento) and I'm a senior Computer Science student (B.Sc.).
+My name is Rafael Eckstein (aka Casperento) and I'm a Computer Science student (B.Sc.).
 
 #### About me:
 
