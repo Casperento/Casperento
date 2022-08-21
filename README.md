@@ -4,7 +4,7 @@ My name is Rafael Eckstein (aka Casperento) and I'm a Computer Science student (
 
 #### About me:
 
-- :mortar_board: I'm working on a final paper in Malware Analysis;
+- :mortar_board: I'm writing my final paper in Malware Analysis;
 - :blue_book: I wrote an introductory textbook about [Digital Forensics and Incident Response](https://github.com/Casperento/ebook-introducao-fdri), but it's only available in Brazilian Portuguese for now;
 - :dragon_face: I like studying Programming Languages and Compilers;
 - :video_game: I'm also a gamer that likes to modify games for fun;
