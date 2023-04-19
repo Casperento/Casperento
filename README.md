@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 - :telescope: I’m currently working on my final paper about Malware Analysis on Android
-- :blue_book: I’ve published an [introductory textbook](https://github.com/Casperento/ebook-introducao-fdri) about DFIR's basic concepts (only available in Brazilian Portugues, for now)
+- :blue_book: I’ve published an [introductory textbook](https://github.com/Casperento/ebook-introducao-fdri) about DFIR's basic concepts (only available in Brazilian Portuguese, for now)
 - :video_game: I like playing and modifying video games for fun
 - :musical_keyboard: I’m currently learning music production and sound design in my spare time
 
