@@ -21,5 +21,5 @@
 
 ### Profile Stats
 
-![](https://raw.githubusercontent.com/Casperento/casperento-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Casperento/casperento-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Casperento/casperento-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/Casperento/casperento-stats/master/generated/languages.svg)
