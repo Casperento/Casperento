@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=casperento&blueviolet)
+
 ### Hey there 👋
 
 - :video_game: I like playing and modifying video games for fun
